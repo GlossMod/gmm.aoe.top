@@ -3,26 +3,26 @@
   "latestVersion": "1.22.0",
   "1.21.0": {
     "path": "Gloss Mod Manager-1.21.0-to-1.22.0-delta.exe",
-    "sha256": "42b73deffe2aaba7c127c34c88f1a9446489a09da889ff36856be7ce89ec9753"
+    "sha256": "f11171fa35f2bbf2ffbb102a2889b97c4637e7ca51f63504531aabc1d7dd0562"
   },
   "1.20.1": {
     "path": "Gloss Mod Manager-1.20.1-to-1.22.0-delta.exe",
-    "sha256": "3426831a1c766acbe14122d5585764ffa76f0905be95dc66b750fbe57c73029e"
+    "sha256": "09c87af318c4d3142a9fd4cde75f44d7c8a42c699e8a271f0af800633c9ad412"
   },
   "1.20.0": {
     "path": "Gloss Mod Manager-1.20.0-to-1.22.0-delta.exe",
-    "sha256": "a0dbfa2c792fc122b45800e2b0a258a47a34e5c39e69d23b848b19ef2100e05a"
+    "sha256": "780419cd5e0795d9efdb247944971ba7f1d5b5beeeb88a78535600ea5a3e01fd"
   },
   "1.19.2": {
     "path": "Gloss Mod Manager-1.19.2-to-1.22.0-delta.exe",
-    "sha256": "16e9facdebc01fa834a2c5a5d1964dddd495ec83009ed32e64a2fe3649c8d578"
+    "sha256": "0c84df3499d5a40c721aa6f29539bdf375f519f1a6a038070bb641b12069e761"
   },
   "1.19.1": {
     "path": "Gloss Mod Manager-1.19.1-to-1.22.0-delta.exe",
-    "sha256": "67eb2dae4257f91dca12b0bd72fa8ef92533eb9a6b94beb54d2387fec237bb72"
+    "sha256": "a2de62635c354b20b6fb3fefe31189ba2287b7309de583af70910c6a19c13023"
   },
   "1.19.0": {
     "path": "Gloss Mod Manager-1.19.0-to-1.22.0-delta.exe",
-    "sha256": "89d3dcd5f2df381e79f9f154ae285f3df978a74f16e718acc26793d91462575b"
+    "sha256": "ed1c05a7830d02332ae4f41900813d8b67e6021bba4b027bbb98eb6d566340f2"
   }
 }
