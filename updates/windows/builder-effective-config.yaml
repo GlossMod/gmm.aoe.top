@@ -1,0 +1,42 @@
+directories:
+  output: release/${version}
+  buildResources: build
+appId: gmm.aoe.top
+asar: true
+icon: public/favicon.ico
+productName: Gloss Mod Manager
+files:
+  - filter:
+      - dist-electron
+      - dist
+mac:
+  artifactName: ${productName}_${version}.${ext}
+  target:
+    - dmg
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  publish:
+    provider: generic
+    url: https://gmm.aoe.top/updates/windows/
+  artifactName: ${productName}_${version}.${ext}
+  certificateFile: ./.key/gmm.pfx
+  certificatePassword: <stripped sensitive data>
+  publisherName: aoe.top
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  deleteAppDataOnUninstall: false
+fileAssociations:
+  ext: gmm
+  name: Gloss Mod Manager
+  description: Gloss Mod Manager File
+  icon: public/favicon.ico
+  role: Shell
+extraResources:
+  - from: ./resources/
+    to: ''
+electronVersion: 26.2.0

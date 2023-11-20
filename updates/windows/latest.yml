@@ -1,8 +1,8 @@
 version: 1.22.0
 files:
-  - url: Gloss-Mod-Manager_1.22.0.exe
-    sha512: eJmgHdbm23OTcnznTxzGJTy8sTtFONxF+wkK6/OLYyLGW1TFjdtlwF/7BchFeQXJOei/UudchjYoaRKV0/PJ4g==
-    size: 82161272
-path: Gloss-Mod-Manager_1.22.0.exe
-sha512: eJmgHdbm23OTcnznTxzGJTy8sTtFONxF+wkK6/OLYyLGW1TFjdtlwF/7BchFeQXJOei/UudchjYoaRKV0/PJ4g==
-releaseDate: '2023-11-20T08:55:04.790Z'
+  - url: Gloss Mod Manager_1.22.0.exe
+    sha512: nytXBBSHdsVNCbXg6FkSZ+xlDoFqwz43PKGIFCXNLPnSKAEBeCT54OqhJo0rQ//zyZX+lOlNUWfPIH5/aJW6ig==
+    size: 82160480
+path: Gloss Mod Manager_1.22.0.exe
+sha512: nytXBBSHdsVNCbXg6FkSZ+xlDoFqwz43PKGIFCXNLPnSKAEBeCT54OqhJo0rQ//zyZX+lOlNUWfPIH5/aJW6ig==
+releaseDate: '2023-11-20T09:34:51.798Z'
